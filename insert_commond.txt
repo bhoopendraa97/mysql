@@ -1,0 +1,2 @@
+Insert data in table commond:---
+insert into table (rollno,name,city,fees) values(1,'Bhoopendra','Bhopal',25000);
